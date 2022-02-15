@@ -1,3 +1,3 @@
-Gitflow Project v0.1
+# Gitflow Project v0.1
 
-Author: Jhonathan Salazar.
+**Author:** Jhonathan Salazar.
